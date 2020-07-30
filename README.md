@@ -10,21 +10,21 @@
 
 My name is Gabriel Hijazi and i'm a Full Stack developer.
 
-- :white_check_mark: Javascrit / NodeJS / React App / React Native.
+- :white_check_mark: Javascript / NodeJS / React/ React Native.
 - :white_check_mark: Currently framework to frontend static **NextJS**
 - :green_book: Learning TypeScript and Python
 
-also i'm owner of [@sweetcode](https://github.com/sweetcodeio) where i do private projects in my spare time, basically a ''freelance''
+also i'm owner of [@Hitechline](https://github.com/hitechline) where i do private projects in my spare time, basically a ''freelance''
 
 # Portuguese
 ### Hey! Bem vindo ao meu Github
 
 Meu nome é Gabriel Hijazi developer Full Stack.
 
-- :white_check_mark: Javascrit / NodeJS / React App / React Native.
+- :white_check_mark: Javascrript / NodeJS / React/ React Native.
 - :white_check_mark: Atualmente usando o framework **NextJS** para frontend.
 - :green_book: Estudando Type Script e Python
 
-também CEO da  [@sweetcode](https://github.com/sweetcodeio) onde faço projetos particulares nas horas vagas sendo basicamente um ''Freelance''
+também CEO da  [@Hitechline](https://github.com/hitechline) onde faço projetos particulares nas horas vagas sendo basicamente um ''Freelance''
 
 
