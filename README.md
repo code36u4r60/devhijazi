@@ -27,6 +27,4 @@ Meu nome é Gabriel Hijazi developer Full Stack.
 
 também CEO da  [@Hitechline](https://github.com/hitechline) onde faço projetos particulares nas horas vagas sendo basicamente um ''Freelance''
 
-### Mais um pouco sobre mim:
-![my-data](https://github-readme-stats.vercel.app/api?username=devhijazi&show_icons=true&title_color=fa582f&icon_color=83ff45&text_color=7900db&bg_color=ffffff)
 
