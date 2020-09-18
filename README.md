@@ -10,8 +10,6 @@
 
 <br />
 
-### Languages
-- Currently the most used languages in my profile.
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHijazi&layout=compact&theme=dracula" alt="DevHijazi's github stats" />
 
