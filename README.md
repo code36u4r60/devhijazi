@@ -51,7 +51,7 @@
 <br/><br/>
 
 <div align="center" >
-   <h2>Commits | Starts | Follows</h2>
+   <h2>More informations: Commits</h2>
   <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=DevHijazi&show_icons=true&theme=dracula&count_private=true" alt="DevHijazi's github stats" />
     <ul align="left">
     <li align="left">My status per year:</li>
