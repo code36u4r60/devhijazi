@@ -10,6 +10,7 @@
 
 <br />
 
+### Most Languages :smile:
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHijazi&layout=compact&theme=dracula" alt="DevHijazi's github stats" />
 
@@ -50,9 +51,9 @@
 <br/><br/>
 
 <div align="center" >
+   <h2>Commits | Starts | Follows</h2>
   <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=DevHijazi&show_icons=true&theme=dracula&count_private=true" alt="DevHijazi's github stats" />
     <ul align="left">
-      <h2>Commits | Starts | Follows</h2>
     <li align="left">My status per year:</li>
   </ul>
 </div>
